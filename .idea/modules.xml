@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BT-batLoi-LopIllegalTriangleException/BT-batLoi-LopIllegalTriangleException.iml" filepath="$PROJECT_DIR$/BT-batLoi-LopIllegalTriangleException/BT-batLoi-LopIllegalTriangleException.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH-debug/TH-debug.iml" filepath="$PROJECT_DIR$/TH-debug/TH-debug.iml" />
       <module fileurl="file://$PROJECT_DIR$/module2week3(ngoaiLe-debug).iml" filepath="$PROJECT_DIR$/module2week3(ngoaiLe-debug).iml" />
     </modules>
